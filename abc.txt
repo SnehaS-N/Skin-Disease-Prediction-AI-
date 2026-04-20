@@ -1,0 +1,22 @@
+skin_disease_project/
+│
+├── app.py
+├── train_model.py
+├── predict.py
+├── utils.py
+├── disease_info.py
+├── requirements.txt
+├── class_names.json
+│
+├── dataset/
+│   ├── Acne/
+│   ├── Eczema/
+│   ├── Healthy/
+│   ├── Melanoma/
+│   ├── Psoriasis/
+│   └── Ringworm/
+│
+├── models/
+│   └── skin_model.h5
+│
+└── uploads/
